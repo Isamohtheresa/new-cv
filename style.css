@@ -1,0 +1,63 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-style: oblique;
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+}
+h2{
+    font-style: oblique;
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+}
+#my-email{
+    text-align: center;
+}
+#my-email:hover{
+font-size: 60px;
+}
+.container1{
+    border: solid
+}
+.container2{
+    border: solid
+}
+table{
+    padding:0px 25px 25px 25px
+}
+div{
+
+    background-color: rgb(71, 255, 132);
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+p{
+    padding:0px 25px 25px 25px
+}  
+.container3{
+    border: solid
+}
+.container4{
+    border: solid
+}
+.container5{
+    border: solid
+}
+.container6{
+    border: solid
+}
+.container7{
+    border: solid
+}
+label{
+    padding-left: 15px;
+padding-top: 15px;
+margin:25px 20px
+}
+placeholder{
+    border-style: solid;
+}
